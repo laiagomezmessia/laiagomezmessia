@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Laia!
 
-- 💻 I'm project manager and junior fullstack developer
+- 💻 I'm project manager and fullstack developer
 - 🌱 I’m currently learning Data Analytics, IA & machine learning
 - 📩 You can contact me here: lgomezmessia@gmail.com / https://www.linkedin.com/in/laiagomezmessia/
 
