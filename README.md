@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Laia!
 
-- 💻 I'm project manager and fullstack developer
-- 🌱 I’m currently learning Data Analytics, IA & machine learning
+- 💻 Data Analytics, IA & machine learning
+- 🌱 I'm also fullstack developer
+- 🌟 For the past four years, I held the position of project manager at the Association of Science and Technology Museums in Spain
 - 📩 You can contact me here: lgomezmessia@gmail.com / https://www.linkedin.com/in/laiagomezmessia/
 
 I've always loved science and technology and over the past few years, my interest in digital transformation has grown significantly.
